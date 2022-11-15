@@ -2,3 +2,5 @@ streamlit
 textblob
 tweepy
 seaborn
+openpyxl
+wordcloud
