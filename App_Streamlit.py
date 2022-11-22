@@ -82,7 +82,7 @@ def main():
             df.loc[i,"Likes"] = tweet.favorite_count
             df.loc[i,"RT"] = tweet.retweet_count
             df.loc[i,"User_location"] = tweet.user.location
-            #df.to_csv("TweetDataset.csv",index=False)
+            df.to_csv("TweetDataset.csv",index=False)
             #df.to_excel('{}.xlsx'.format("TweetDataset"),index=False)   ## Save as Excel
             i=i+1
             if i>Count:
