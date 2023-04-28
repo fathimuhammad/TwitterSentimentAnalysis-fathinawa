@@ -46,15 +46,15 @@ def main():
     st.subheader("Select a topic which you'd like to get the sentiment analysis on :")
 
     ################# Twitter API Connection #######################
-    #consumer_key = "uVk7Nnny8h4cJLiXNKPfFNUkd"
-    #consumer_secret = "o15vVSvsmbECaciiQEi3pdiCxz4SEXeHYby5kWIUYBGEZvdllz"
-    #access_token = "1248400488665513991-R0rL42DfCk2LEQWGiyxhQE0rsVUJTZ"
-    #access_token_secret = "fT4Wy2yg2iykf6UN69DoBkSNk7FcEoNe7U1HPRzXT2P4d"
+    consumer_key = "A8jM7ITrv6rnh9cw4pkm5sX8n"
+    consumer_secret = "QbgrxPsa10SDSbOM1Gj2Q4IUMJB1JJ1iBvIDAO8MWIyVd50GbF"
+    access_token = "1248400488665513991-qFu2qZDCsSFM9HBW8f1NLMSViIinCT"
+    access_token_secret = "96O0HTbSRYSp1Vcr6HgfUBZ65bxa11atm2Xymvahgy5jm"
     
-    consumer_key = "GcpdrJEU3K2BegvayOkeOuZ2Y"
-    consumer_secret = "s8pxiFiYkbvw0yt3m7XuEjDsDh45J3s5iPzd50ehKaz4NNdhr7"
-    access_token = "1303271622510403584-QVFnJnmgoTdi36TXX4SOvrjQA99gPK"
-    access_token_secret = "M9nxu7zaAxIzqQwpIal7bKOkvtMw4z85mejTPjYwUee6b"
+    #consumer_key = "GcpdrJEU3K2BegvayOkeOuZ2Y"
+    #consumer_secret = "s8pxiFiYkbvw0yt3m7XuEjDsDh45J3s5iPzd50ehKaz4NNdhr7"
+    #access_token = "1303271622510403584-QVFnJnmgoTdi36TXX4SOvrjQA99gPK"
+    #access_token_secret = "M9nxu7zaAxIzqQwpIal7bKOkvtMw4z85mejTPjYwUee6b"
 
 
 
