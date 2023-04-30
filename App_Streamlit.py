@@ -51,10 +51,10 @@ def main():
     #access_token = "1248400488665513991-qFu2qZDCsSFM9HBW8f1NLMSViIinCT"
     #access_token_secret = "96O0HTbSRYSp1Vcr6HgfUBZ65bxa11atm2Xymvahgy5jm"
     
-    consumer_key = "GcpdrJEU3K2BegvayOkeOuZ2Y"
-    consumer_secret = "s8pxiFiYkbvw0yt3m7XuEjDsDh45J3s5iPzd50ehKaz4NNdhr7"
-    access_token = "1303271622510403584-QVFnJnmgoTdi36TXX4SOvrjQA99gPK"
-    access_token_secret = "M9nxu7zaAxIzqQwpIal7bKOkvtMw4z85mejTPjYwUee6b"
+    consumer_key = "8Lihng2rKQOUehXWe2DgbCJfT"
+    consumer_secret = "OVYlXvlP8TFVu60dxUzTEB3Z3l66qDVGzcvtRgJvcEqmlLU3Tt"
+    access_token = "1303271622510403584-kOb1QiFbvjsqcvFdm0fcnXkSGDB4sB"
+    access_token_secret = "nxHyPFa9PmByE8OzF6fIftoUj4UZ8SNdaS4B3x3Zfmfor"
 
 
 
